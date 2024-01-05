@@ -2,7 +2,7 @@
 
 #### Pipeline
 
-![pipeline](C:\Users\Administrator-PC\OneDrive\桌面\FormattingGuidelines-IJCAI-23\pipeline.png)
+![pipeline](figs/pipeline.png)
 
 #### Environment
 
