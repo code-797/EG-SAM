@@ -29,6 +29,7 @@ python -m torch.distributed.launch --nproc_per_node=<num_gpus> train.py --checkp
 Visual comparison with **nine state-of-the-art COD methods**. EC-SAM demonstrates superior accuracy in delineating the boundaries of camouflaged objects.
 
 ![cam](figs/cam.jpg)
+![sort](figs/sort.png)
 
 ### Results on DIS，COIFT and ThinObject
 
