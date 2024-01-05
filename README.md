@@ -24,17 +24,17 @@ python -m torch.distributed.launch --nproc_per_node=<num_gpus> train.py --checkp
 
 #### **Visualization**
 
-![Vis1](C:\Users\Administrator-PC\OneDrive\桌面\FormattingGuidelines-IJCAI-23\Vis1.png)
+![Vis1](figs/Vis1.png)
 
 Visual comparison with **nine state-of-the-art COD methods**. EC-SAM demonstrates superior accuracy in delineating the boundaries of camouflaged objects.
 
-![cam](C:\Users\Administrator-PC\OneDrive\桌面\FormattingGuidelines-IJCAI-23\cam.jpg)
+![cam](figs\cam.jpg)
 
 #### Results on DIS，COIFT and ThinObject
 
-![image-20240105112644171](C:\Users\Administrator-PC\AppData\Roaming\Typora\typora-user-images\image-20240105112644171.png)
+![result1](figs\result1.jpg)
 
 #### Results on CODs
 
-![image-20240105112749688](C:\Users\Administrator-PC\AppData\Roaming\Typora\typora-user-images\image-20240105112749688.png)
+![result2](figs\result2.jpg)
 
