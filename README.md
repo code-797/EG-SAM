@@ -1,4 +1,4 @@
-## RC-SAM:Refine the Contour of complex objects with SAM and Boundary Guidance
+## EG-SAM: An Edge-Guided SAM for Accurate Complex Object Segmentation
 
 ### Pipeline
 
@@ -46,7 +46,7 @@ You can get the weight file [here](https://drive.google.com/file/d/1B9-bTQ4c_fG8
 
 ![Vis1](figs/Vis1.png)
 
-Visual comparison with **nine state-of-the-art COD methods**. EC-SAM demonstrates superior accuracy in delineating the boundaries of camouflaged objects.
+Visual comparison with **nine state-of-the-art COD methods**. EG-SAM demonstrates superior accuracy in delineating the boundaries of camouflaged objects.
 
 ![cam](figs/cam.jpg)
 ![sort](figs/sort.png)
