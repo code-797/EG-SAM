@@ -53,9 +53,9 @@ Visual comparison with **nine state-of-the-art COD methods**. EG-SAM demonstrate
 
 ### Results on DIS，COIFT and ThinObject
 
-![result1](figs/result1.jpg)
+![result1](figs/result1.png)
 
 ### Results on CODs
 
-![result2](figs/result2.jpg)
+![result2](figs/result2.png)
 
