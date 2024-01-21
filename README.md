@@ -37,7 +37,7 @@ python -m torch.distributed.launch --nproc_per_node=<num_gpus> train.py --checkp
 
 EG-SAM is an improvement on the basis of HQ-SAM, you can follow the environment Settings [here](https://github.com/SysCV/SAM-HQ?tab=readme-ov-file)
 ### Evaluation
-'```
+```
 python -m torch.distributed.launch --nproc_per_node=<num_gpus> train.py --checkpoint <your checkpoint path> --model-type <model_type> --output <your output path> --eval --restore-model <your training_checkpoint path>
 ```
 You can get the weight file [here](https://drive.google.com/file/d/1B9-bTQ4c_fG8s--837HpMhaUT5gWGdv9/view?usp=drive_link)
